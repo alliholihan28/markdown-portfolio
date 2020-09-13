@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ :sparkles: These are some of my attributes :sparkles:
+ * I'm vary *complementry* :blush:
+ * I'm a vary **caring** person :innocent:
+ * I like things to be *clean* :sparkles:
+ * I'm kinda **funny** :stuck_out_tongue_winking_eye:
